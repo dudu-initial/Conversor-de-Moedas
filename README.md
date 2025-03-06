@@ -9,12 +9,12 @@ Um simples conversor de moedas desenvolvido em **Java**. Ele permite converter u
 
 ## Exemplo de uso
 
-Digite o valor em Reais (BRL) que deseja converter: 100
-Converter de:
-1 - Real para Dólar
-2 - Real para Peso Argentino
-3 - Real para Iene Japonês
-Escolha uma opção: 1
+<br>Digite o valor em Reais (BRL) que deseja converter: 100
+<br>Converter de:
+<br>1 - Real para Dólar
+<br>2 - Real para Peso Argentino
+<br>3 - Real para Iene Japonês
+<br>Escolha uma opção: 1
 
 Valor convertido: 17.36 Dólares (USD)
 
